@@ -116,7 +116,8 @@ font:
     # family: RobotoMono Nerd Font
     # family: Hack
     # family: JetBrains Mono
-    family: UbuntuMono Nerd Font
+    # family: UbuntuMono Nerd Font
+    family: JetBrainsMono Nerd Font Mono
       # family: Maple Mono NF
     # family: Monofur Nerd Font
     # family: TerminessTTF Nerd Font
@@ -135,7 +136,8 @@ font:
     # family: RobotoMono Nerd Font
     # family: Hack
     # family: JetBrains Mono
-    family: UbuntuMono Nerd Font
+    # family: UbuntuMono Nerd Font
+    family: JetBrainsMono Nerd Font Mono
     # family: Monofur Nerd Font
     # family: TerminessTTF Nerd Font
     # family: Mononoki Nerd Font
@@ -154,8 +156,9 @@ font:
     # family: RobotoMono Nerd Font
     # family: Hack
     # family: JetBrains Mono
-    family: UbuntuMono Nerd Font
-    # family: Monofuritalic Nerd Font Mono
+    # family: UbuntuMono Nerd Font
+    # family: Monofuritalic Nerd Font Mono#
+    family: JetBrainsMono Nerd Font Mono
     # family: TerminessTTF Nerd Font
     # family: Mononoki Nerd Font
 
@@ -173,7 +176,8 @@ font:
     # family: RobotoMono Nerd Font
     # family: Hack
     # family: JetBrains Mono
-    family: UbuntuMono Nerd Font
+    # family: UbuntuMono Nerd Font
+    family: JetBrainsMono Nerd Font Mono
     # family: Monofuritalic Nerd Font Mono
     # family: TerminessTTF Nerd Font
     # family: Mononoki Nerd Font
