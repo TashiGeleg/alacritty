@@ -7,6 +7,9 @@ env:
   # available, otherwise `xterm-256color` is used.
     TERM: screen-256color
 
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml 
+
 window:
   # Window dimensions (changes require restart)
   #
@@ -20,7 +23,7 @@ window:
   #
   # Specified in number of pixels.
   # If the position is not set, the window manager will handle the placement.
-  #position:
+  #position:git clone https://github.com/catppuccin/alacritty.git ~/.config/alacritty/catppuccin
   #  x: 0
   #  y: 0
 
@@ -300,7 +303,6 @@ schemes:
         - { index: 16, color: "#FAB387" }
         - { index: 17, color: "#F5E0DC" }
         
-   
   ### Catppuccin-Macchiato ###
   Catppuccin-Macchiato: &Catppuccin-Macchiato
     # Default colors
@@ -819,7 +821,7 @@ schemes:
 # *SolarizedDark
 # *TomorrowNight
 
-colors: *MonokaiPro
+# colors: *MonokaiPro
  
 # Visual Bell
 #
