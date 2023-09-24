@@ -62,7 +62,7 @@ window:
   # Values for `decorations` (macOS only):
   #     - transparent: Title bar, transparent background and title bar buttons
   #     - buttonless: Title bar, transparent background, but no title bar buttons
-  decorations: none
+  decorations: full
 
   # Startup Mode (changes require restart)
   #
@@ -1104,7 +1104,9 @@ schemes:
 
 key_bindings:
     - { key: Return, mods: Control, chars: "\x1b[13;5u" }
-    - { key: Tab, mods: Control, chars: "\x1b[9;5u" }
-    - { key: V, mods: Control|Shift, chars: "\x1b[86;5u" }
-    - { key: C, mods: Control|Shift, chars: "\x1b[67;5u" }
-    - { key: T, mods: Control|Shift, chars: "\x1b[84;5u" }
+    - { key: Tab, mods: Control, chars: "\x1b[9;6u" }
+    - { key: D, mods: Control|Shift, chars: "\x1b[68;6u" }
+    - { key: E, mods: Control|Shift, chars: "\x1b[69;6u" }
+    - { key: V, mods: Control|Shift, chars: "\x1b[86;6u" }
+    - { key: C, mods: Control|Shift, chars: "\x1b[67;6u" }
+    - { key: T, mods: Control|Shift, chars: "\x1b[84;6u" }
