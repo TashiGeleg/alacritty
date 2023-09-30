@@ -18,7 +18,7 @@ env:
 # import:
 #   - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml 
 
-window:
+window: 
   # Window dimensions (changes require restart)
   #
   # Specified in number of columns/lines, not pixels.
