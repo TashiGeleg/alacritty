@@ -16,7 +16,7 @@ env:
   TERM: screen-256color
 
 # import:
-#   - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+# - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
 
 window:
   # Window dimensions (changes require restart)
