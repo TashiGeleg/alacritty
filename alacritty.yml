@@ -120,7 +120,7 @@ font:
     # Font family
     #
     # Default:
-    #   - (macOS) Menlo
+    # - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
     # family: Source Code Pro
@@ -129,14 +129,12 @@ font:
     # family: Hack
     # family: JetBrains Mono
     # family: UbuntuMono Nerd Font
-    family:
-      JetBrainsMono Nerd Font Mono
-      # family: Maple Mono NF
-    # family: Monofur Nerd Font
-    # family: TerminessTTF Nerd Font
-    # family: Mononoki Nerd Font
+    family: JetBrainsMono Nerd Font Mono
+  # family: Monofur Nerd Font
+  # family: TerminessTTF Nerd Font
+  # family: Mononoki Nerd Font
 
-    # The `style` can be specified to pick a specific face.
+  # The `style` can be specified to pick a specific face.
   # Bold font face
   bold:
     # Font family
